@@ -1,0 +1,10 @@
+body {
+	margin: 25px;
+	padding: 0;
+	background: blue;
+	color: white;
+	font-family: avenir;
+}
+main {
+	padding: 50em;
+}
